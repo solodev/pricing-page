@@ -3,7 +3,7 @@ Selling products and services online requires an intuitive and informative prici
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Creating a Pricing Page That Sells](https://www.solodev.com/blog/web-design/code-examples/creating-a-pricing-page-that-sells.stml) article.
+For detailed instructions, view Solodev's [Creating a Pricing Page That Sells](https://www.solodev.com/blog/web-design/code-examples/designing-a-pricing-page-that-sells.stml) article.
 
 ## Demo
 
