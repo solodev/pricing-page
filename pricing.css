@@ -122,9 +122,6 @@ li {
 }
 .parallax {
     background-attachment: inherit !important;
-}
-.parallax {
-    background-attachment: inherit !important;
     background-repeat: repeat;
     background-size: cover;
     position: absolute;
