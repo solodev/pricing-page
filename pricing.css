@@ -85,6 +85,9 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     margin-top: 27px;
     margin-bottom: 48px;
 }
+.pricing-table .item-details-block {
+    min-height: 525px;
+}
 .pricing-table .item-details-block ul {
     list-style: none;
     margin: 0;
